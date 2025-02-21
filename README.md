@@ -1,6 +1,6 @@
-## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaphire12&locale=ru&card_width=800px&hide_rank=true)
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=zaphire12&show_icons=true&theme=radical)  
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=zaphire12&layout=compact&theme=radical)
-![GitHub Трофеи](https://github-profile-trophy.vercel.app/?username=zaphire12&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zaphire12&locale=ru)](https://git.io/streak-stats)
+
 - [Telegram](https://t.me/твой_ник)  
